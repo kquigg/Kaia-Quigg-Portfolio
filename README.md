@@ -2,13 +2,12 @@
 
 # Socioeconomic Drivers of Ecological Footprint
 
-**How to Use**
 
 *ipynb in 'notebooks'*
 
 *csv in 'data'*
 
-*png(s) in 'visualizations*
+*png(s) in 'visualizations'*
 
 
 ## TL;DR
