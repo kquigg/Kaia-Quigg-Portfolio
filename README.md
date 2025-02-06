@@ -2,6 +2,9 @@
 
 # Socioeconomic Drivers of Ecological Footprint
 
+*ipynb file in 'notebooks'
+csv in 'data'*
+
 
 ## TL;DR
 This self-designed project utilizes advanced statistical analysis and visualization to answer questions regarding the 
